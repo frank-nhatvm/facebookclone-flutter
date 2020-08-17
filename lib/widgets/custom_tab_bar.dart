@@ -5,12 +5,15 @@ class CustomTabbar extends StatelessWidget {
   final List<IconData> icons;
   final int selectedIndex;
   final Function onTap;
+   final bool isBottomIndicator;
 
   const CustomTabbar(
       {Key key,
       @required this.icons,
       @required this.selectedIndex,
-      @required this.onTap})
+      @required this.onTap,
+        this.isBottomIndicator = false,
+      })
       : super(key: key);
 
   @override
@@ -19,7 +22,12 @@ class CustomTabbar extends StatelessWidget {
       indicatorPadding: EdgeInsets.zero,
       onTap: onTap,
       indicator: BoxDecoration(
-        border: Border(
+        border: isBottomIndicator ?  Border(
+          bottom: BorderSide(
+            color: Palette.facebookBlue,
+            width: 3.0,
+          ),
+        ) : Border(
           top: BorderSide(
             color: Palette.facebookBlue,
             width: 3.0,

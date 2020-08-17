@@ -3,14 +3,41 @@
 Build Facebook for desktop, tablet, mobile site and mobile app by using Flutter.
 
 ## Getting Started
+[![Facebook Clone Demo] (videodemo/demo_facebook_clone_flutter.mov)]
+This project demo how to build a  responsive UI for desktop, mobile site and mobile app.
+The list of widgets that used in this project:
+Text
+FlatButton
+Icon
+IconButton
+InkWell
+Divider
+VerticalDivider
+SizedBox
+CircleAvatar
+Spacer
+Container
+Flexible
+Customscrollview
+Padding
+Align
+Stack
+Row
+Column
+Listview
+Expanded
+Card
+BoxDecoration
+BoxShadow
+TabBar
+Tab
+Border
+BorderSide
+CircleAvatar
+Positioned
+OutlineButton
+RoundedRectangleBorder
+ClipRRect
 
-This project is a starting point for a Flutter application.
+ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
