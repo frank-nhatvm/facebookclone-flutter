@@ -1,43 +1,42 @@
 # facebookclone
+## This project demo how to build a  responsive UI for desktop, mobile site and mobile app.
 
-Build Facebook for desktop, tablet, mobile site and mobile app by using Flutter.
+[![Facebook Clone by Flutter](https://i.ytimg.com/vi/GkYQ2UqAexw/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBJibCfkOuuu-fuzqnH-dskcme6ZA)](https://www.youtube.com/watch?v=GkYQ2UqAexw)
 
-## Getting Started
-[![Facebook Clone Demo] (videodemo/demo_facebook_clone_flutter.mov)]
-This project demo how to build a  responsive UI for desktop, mobile site and mobile app.
-The list of widgets that used in this project:
-Text
-FlatButton
-Icon
-IconButton
-InkWell
-Divider
-VerticalDivider
-SizedBox
-CircleAvatar
-Spacer
-Container
-Flexible
-Customscrollview
-Padding
-Align
-Stack
-Row
-Column
-Listview
-Expanded
-Card
-BoxDecoration
-BoxShadow
-TabBar
-Tab
-Border
-BorderSide
-CircleAvatar
-Positioned
-OutlineButton
-RoundedRectangleBorder
-ClipRRect
+### The list of widgets that used in this project:
+
+ - Text
+ - FlatButton
+ - Icon
+ - IconButton
+ - InkWell
+ - Divider
+ - VerticalDivider
+ - SizedBox
+ - CircleAvatar
+ - Spacer
+ - Container
+ - Flexible
+ - Customscrollview
+ - Padding
+ - Align
+ - Stack
+ - Row
+ - Column
+ - Listview
+ - Expanded
+ - Card
+ - BoxDecoration
+ - BoxShadow
+ - TabBar
+ - Tab
+ - Border
+ - BorderSide
+ - CircleAvatar
+ - Positioned
+ - OutlineButton
+ - RoundedRectangleBorder
+ - ClipRRect
 
  
 
